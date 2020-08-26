@@ -1,0 +1,261 @@
+.headerApp{
+  background: #833ab4;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #fcb045, #fd1d1d, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     
+  
+} 
+.gridCentre{
+
+text-align:center;
+
+}
+.banner{
+  background-color: black;
+  color:white;
+  text-align: center;
+  width: 70%;
+  padding: 20px;
+  padding-bottom:50px ;
+  margin: auto;
+  opacity: 0.8;
+  border-radius: 20px;
+  
+
+
+}
+.banner hr{
+
+  border-top: 3px dotted ;
+  width: 95%;
+  margin: auto;
+
+
+}
+.banner p{
+  font-size: 22px;
+  font-weight : bold ;
+  padding-top: 10px;
+}
+.gridCentre1{
+  background: white;
+  color: black;
+  text-align: center;
+  border-radius: 2em;
+
+}
+
+.banner1{
+  font-size: 17px;
+  font-weight : bold ;
+
+}
+.banner i{
+  padding-top:20px ;
+  margin-left: 20px;
+}
+.pd{
+  padding-bottom: 60px;
+
+
+}
+.banner1 p{
+  font-size: 20px;
+  text-align: center;
+  
+}
+.img{
+  padding-bottom: 50px;
+}
+.spani{
+  padding-left: 20px;
+  color: gold;
+  font-size: 60px ;
+}
+.tab{
+  font-size:25px ;
+  padding-top: 40px;
+
+}
+.dot hr{
+  border-top: 3px dotted ;
+
+}
+.projec{
+  text-align: center ;
+  color: black;
+  padding-left: 20px;
+  padding-bottom: 300px;
+  
+}
+.dis{
+  padding-right: 80px;
+}
+.head{
+  background-color: white;
+  color: white;
+}
+
+.resume {
+  width: 800px;
+  height: auto;
+  display: flex;
+  margin:  auto;
+}
+
+.resume .resume_left {
+  width: 450px;
+  background: #0bb5f4;
+}
+
+.resume .resume_left .resume_profile {
+  width: 100%;
+  height: 225px;
+}
+
+.resume .resume_left .resume_profile img {
+  width: 100%;
+  height: 100%;
+}
+
+.resume .resume_left .resume_content {
+  padding: 0 25px;
+}
+
+.resume .title {
+  margin-bottom: 20px;
+}
+
+.resume .resume_left .bold {
+  color: #fff;
+}
+
+.resume .resume_left .regular {
+  color: #b1eaff;
+}
+
+.resume .resume_item {
+  padding: 25px 0;
+  border-bottom: 2px solid #b1eaff;
+}
+
+.resume .resume_left .resume_item:last-child,
+.resume .resume_right .resume_item:last-child {
+  border-bottom: 0px;
+}
+
+.resume .resume_left ul li {
+  display: flex;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.resume .resume_left ul li:last-child {
+  margin-bottom: 0;
+}
+
+.resume .resume_left ul li .icon {
+  width: 35px;
+  height: 35px;
+  background: #fff;
+  color: #0bb5f4;
+  border-radius: 50%;
+  margin-right: 15px;
+  font-size: 16px;
+  position: relative;
+}
+
+.resume .icon i,
+.resume .resume_right .resume_hobby ul li i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.resume .resume_left ul li .data {
+  color: #b1eaff;
+}
+
+.resume .resume_left .resume_skills ul li {
+  display: flex;
+  margin-bottom: 10px;
+  color: #b1eaff;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.resume .resume_left .resume_skills ul li .skill_name {
+  width: 25%;
+}
+
+.resume .resume_left .resume_skills ul li .skill_progress {
+  width: 60%;
+  margin: 0 5px;
+  height: 5px;
+  background: #009fd9;
+  position: relative;
+}
+
+.resume .resume_left .resume_skills ul li .skill_per {
+  width: 15%;
+}
+
+.resume .resume_left .resume_skills ul li .skill_progress span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background: #fff;
+}
+
+.resume .resume_left .resume_social .semi-bold {
+  color: #fff;
+  margin-bottom: 3px;
+}
+
+.resume .resume_right {
+  width: 520px;
+  background: #fff;
+  padding: 25px;
+}
+
+.resume .resume_right .bold {
+  color: #0bb5f4;
+}
+
+.resume .resume_right .resume_work ul,
+.resume .resume_right .resume_education ul {
+  padding-left: 40px;
+  overflow: hidden;
+}
+
+.resume .resume_right ul li {
+  position: relative;
+}
+
+.resume .resume_right ul li .date {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.resume .resume_right ul li .info {
+  margin-bottom: 20px;
+}
+
+.resume .resume_right ul li:last-child .info {
+  margin-bottom: 0;
+}
+
+
+
+  
+
+
+
+
+
+
+
+ 
